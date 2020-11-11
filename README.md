@@ -6,7 +6,7 @@
 [<img align="left" alt="itsrishon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [website]: https://neddo.dev
-[twitter]: https://twitter.com/realneddo
+[twitter]: https://twitter.com/itsneddo
 <br />
 <br />
 
