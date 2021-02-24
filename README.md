@@ -1,6 +1,6 @@
 ### Heyo! I'm Neddo!
 
-[website]: https://neddo.dev
+https://neddo.dev
 <br />
 <br />
 
