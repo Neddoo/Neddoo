@@ -1,9 +1,8 @@
-### Heyo! I'm Neddo!
+### Hello! I'm Neddo 👋
 
-https://neddo.dev
-<br />
-<br />
+# I'm a software developer from The Netherlands.
 
-• I'm a software developer who is currently studying Software Development in The Netherlands •
+I love creating stuff and coming up with unique ideas!
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=neddoo)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neddoo&show_icons=true&theme=dark)
+
