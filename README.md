@@ -1,4 +1,4 @@
-# Hello! I'm Neddo 👋 | https://neddo.codes/
+# Hello! I'm Neddo 👋 | https://neddo.dev/
 
 I'm a software developer from The Netherlands.
 I love creating stuff and coming up with unique ideas!
