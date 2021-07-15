@@ -10,6 +10,5 @@ I love creating stuff and coming up with unique ideas!
 ![](https://img.shields.io/badge/Code-NextJS-informational?style=flat&logo=Next.js&logoColor=white&color=00ff00)
 ![](https://img.shields.io/badge/Skill-Git-informational?style=flat&logo=Git&logoColor=white&color=00ff00)
 ![](https://img.shields.io/badge/Databases-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=00ff00)
-![](https://img.shields.io/badge/Code--informational?style=flat&logo=Next.js&logoColor=white&color=00ff00)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neddoo&show_icons=true&theme=dark)
