@@ -14,4 +14,4 @@ I love creating stuff and coming up with unique ideas!
 
 # Discord
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/246895281940070400)](https://discord.com/users/246895281940070400)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/246895281940070400?bg=00ff00)](https://discord.com/users/246895281940070400)
