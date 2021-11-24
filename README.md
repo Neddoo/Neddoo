@@ -2,6 +2,7 @@
 
 I'm a software developer from The Netherlands.
 I love creating stuff and coming up with unique ideas!
+Mainly focusing on creating stuff on the web!
 
 #  Skills
 ![](https://img.shields.io/badge/-HTML-F16529?style=for-the-badge&labelColor=1e1e1e&logo=HTML5&logoColor=F16529)
