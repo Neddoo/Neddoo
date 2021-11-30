@@ -1,8 +1,8 @@
-# Heyo! I'm Neddo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> | https://neddo.dev/
+# Heyo! I'm Sven <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> | https://neddo.dev/
 
-I write things for the web and for games.
+#### I write things for the web and for games.
 
-#  Skills
+# Skills
 ![](https://img.shields.io/badge/-HTML-F16529?style=for-the-badge&labelColor=1e1e1e&logo=HTML5&logoColor=F16529)
 ![](https://img.shields.io/badge/-PHP-B0B3D6?style=for-the-badge&labelColor=1e1e1e&logo=PHP&logoColor=B0B3D6)
 ![](https://img.shields.io/badge/-Typescript-408CE3?style=for-the-badge&labelColor=1e1e1e&logo=typescript&logoColor=408CE3) 
