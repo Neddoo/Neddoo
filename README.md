@@ -1,6 +1,6 @@
 # Heyo! I'm Neddo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> | https://neddo.dev/
 
-I write stuff for the web.
+I write things for the web and for games.
 
 #  Skills
 ![](https://img.shields.io/badge/-HTML-F16529?style=for-the-badge&labelColor=1e1e1e&logo=HTML5&logoColor=F16529)
