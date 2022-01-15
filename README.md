@@ -1,6 +1,6 @@
 # Heyo! I'm Sven <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> | https://neddo.dev/
 
-#### I write things for the web and for games.
+#### I write things for the web
 
 # Skills
 ![](https://img.shields.io/badge/-HTML-F16529?style=for-the-badge&labelColor=1e1e1e&logo=HTML5&logoColor=F16529)
