@@ -1,6 +1,6 @@
 ## Hi there! I'm Sven! 👋
 
-I'm a 18 year old full-stack developer from The Netherlands.
+I'm an 18 year old full-stack developer from The Netherlands.
 
 ## Skills 🤹
 
