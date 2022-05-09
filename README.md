@@ -4,9 +4,7 @@ I'm an 18 year old full-stack developer from The Netherlands.
 
 ## Skills 🤹
 
-I'm the most experienced with everything front-end. I love using [Next.JS](https://nextjs.org/) & [TailwindCSS](https://tailwindcss.com/).
-
-Right now, I'm studying Software Development at a local school in The Netherlands. While also working on several projects that you'll find here!
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,cloudflare,git,ts,nextjs,vue,php,prisma,tailwind,react)](https://skillicons.dev)
 
 ## Contact ✉️
 
