@@ -4,7 +4,7 @@ I'm an 18 year old full-stack developer from The Netherlands.
 
 ## Skills 🤹
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,cloudflare,git,ts,nextjs,vue,php,prisma,tailwind,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,cloudflare,git,ts,nextjs,vue,php,prisma,tailwind,react,laravel)](https://skillicons.dev)
 
 ## Contact ✉️
 
