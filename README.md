@@ -6,7 +6,7 @@ Striving to create quality products, while also having fun
 
 * 🌍  I'm based in The Netherlands
 * 🖥️  See my portfolio at [neddo.dev](http://neddo.dev)
-* ✉️  You can contact me at [me@neddo.dev](mailto:me@neddo.dev)
+* ✉️  You can contact me at [sven@neddo.dev](mailto:sven@neddo.dev)
 
 <a href="https://www.twitter.com/ItsNeddo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ItsNeddo?logo=twitter&style=for-the-badge&color=22c55e&labelColor=1c1917"
